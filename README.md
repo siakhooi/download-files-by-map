@@ -51,6 +51,7 @@ $ download-files-by-map jsonfile
 - https://pypi.org/project/download-files-by-map/
 - https://github.com/siakhooi/python-download-files-by-map
 - https://sonarcloud.io/project/overview?id=siakhooi_python-download-files-by-map
+- https://qlty.sh/gh/siakhooi/projects/python-download-files-by-map
 
 ## Badges
 ![GitHub](https://img.shields.io/github/license/siakhooi/python-download-files-by-map?logo=github)
@@ -74,6 +75,10 @@ $ download-files-by-map jsonfile
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/siakhooi/python-download-files-by-map?label=GPR%20release&logo=github)
 ![GitHub all releases](https://img.shields.io/github/downloads/siakhooi/python-download-files-by-map/total?color=33cb56&logo=github)
 ![GitHub Release Date](https://img.shields.io/github/release-date/siakhooi/python-download-files-by-map?logo=github)
+
+![Quality-Qlty](https://img.shields.io/badge/Quality-Qlty-purple)
+[![Maintainability](https://qlty.sh/gh/siakhooi/projects/python-download-files-by-map/maintainability.svg)](https://qlty.sh/gh/siakhooi/projects/python-download-files-by-map)
+[![Code Coverage](https://qlty.sh/gh/siakhooi/projects/python-download-files-by-map/coverage.svg)](https://qlty.sh/gh/siakhooi/projects/python-download-files-by-map)
 
 ![Quality-Sonar](https://img.shields.io/badge/Quality-SonarCloud-purple)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=siakhooi_python-download-files-by-map&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=siakhooi_python-download-files-by-map)
