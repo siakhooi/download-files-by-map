@@ -21,10 +21,10 @@ dependencies = [
 ]
 
 [project.urls]
-homepage = "https://github.com/siakhooi/python-download-files-by-map"
-repository = "https://github.com/siakhooi/python-download-files-by-map"
-documentation = "https://github.com/siakhooi/python-download-files-by-map/wiki"
-"Bug Tracker" = "https://github.com/siakhooi/python-download-files-by-map/issues"
+homepage = "https://github.com/siakhooi/download-files-by-map"
+repository = "https://github.com/siakhooi/download-files-by-map"
+documentation = "https://github.com/siakhooi/download-files-by-map/wiki"
+"Bug Tracker" = "https://github.com/siakhooi/download-files-by-map/issues"
 
 [project.scripts]
 download-files-by-map = 'download_files_by_map.cli:run'
